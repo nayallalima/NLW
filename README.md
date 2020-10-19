@@ -1,7 +1,7 @@
 # NLW
 
-![](.pictures/proffy.jpg)
+![](./pictures/proffy.jpg)
 
-![](.pictures/proffy2.jpg)
+![](./pictures/proffy2.jpg)
 
-![](.pictures/proffy3.jpg)
+![](./pictures/proffy3.jpg)
