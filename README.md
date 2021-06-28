@@ -5,7 +5,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-contribuidores">Contribuidores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -27,14 +26,6 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
-
-## 📎 Pré-requisitos
-
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
-
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## ♥️ Contribuidores 
 <p> Obrigada a todos que fazem parte da <a href="http://campinas.tech/campinas-tech-talents/">Rocketseat 🚀</a>, </p>
