@@ -20,15 +20,15 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 - Clone o repositório para a sua máquina
 
-git clone git@github.com:nayallalima/Proffy.git
+  git clone git@github.com:nayallalima/Proffy.git
 
 - Instale as dependências com `npm`
 
-npm install
+  npm install
 
 - Inicie o servidor com o comando 
 
-npm start
+  npm start
 
 O app estará disponível no seu browser pelo endereço [`localhost:5500`](http://localhost:5500) do seu navegador.
 
